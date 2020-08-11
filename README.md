@@ -24,13 +24,13 @@ verificados manualmente, caso a caso.
 
 ## Exemplos
 
-Entrada | Saida
-------- | -----
-`0\n` | `0\n`
-`1\n` | `0\n`
-`2 1\n` | `1\n` (operando em dois processos)
-`2 1 0\n` | `1\n` (operando em três processos)
-`3 5 2 7 9 1 0\n | `4\n` (operando em quatro processos)
+Entrada           | Saida
+-------           | -----
+`0\n`             | `0\n`
+`1\n`             | `0\n`
+`2 1\n`           | `1\n` (operando em dois processos)
+`2 1 0\n`         | `1\n` (operando em três processos)
+`3 5 2 7 9 1 0\n` | `4\n` (operando em quatro processos)
 
 ## Instruções adicionais
 
